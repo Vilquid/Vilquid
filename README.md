@@ -150,8 +150,6 @@ I'm a 3rd-year Software Engineering/CS Student [@Beni-Suef University](http://ww
 ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
 ![Azure](https://img.shields.io/badge/-Azure-fff?&logo=Microsoft-Azure&logoColor=blue)
 
-<!-- wi*quL3fcV -->
-
 #### Full Stack projects
 
 [![Listify](https://img.shields.io/badge/-🎵%20Listify-fff?)](https://github.com/aboelkassem/Listify)
