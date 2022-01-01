@@ -80,7 +80,7 @@ C'est cool ça
 
 ### Hi, I'm <a href="https://www.aboelkassem.me">Mohammed</a> 👋🏼👨🏻‍💻
 
-I'm a 3rd-year Software Engineering/CS Student [@Beni-Suef University](http://www.fci.bsu.edu.eg/) at Egypt, pursuing a Bachelor's degree in Computer Science, who is passionate about Software development, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way.<br/>
+I'm a 3rd-year Software Engineering/CS Student [@ISEN](https://www.isen.fr/campus/ecole-ingenieurs-toulon/) in France, pursuing a Ingineer's degree in Computer Science, who is passionate about Software development, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way.<br/>
 
 
 
