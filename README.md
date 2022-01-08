@@ -1,31 +1,8 @@
-### Hi there, I'm Mathis - aka Vilquid
-
-<!--
-**Vilquid/Vilquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-
-C'est cool ça
-
--->
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+# Hi there, I'm Mathis - aka Vilquid
 
 ## I'm a student, developer and teacher !!!
 
-- 🔭 I just launched my first course: [Become Hero like me!][course]!
+- 🔭 I just launched my first course: http://lerelaispeiresc.com/wp-content/uploads/2021/08/INFORMATIQUE-2021-2022.pdf
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
