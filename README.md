@@ -16,7 +16,7 @@ I'm a 3rd-year Software Engineering/CS student [@ISEN](https://www.isen.fr/campu
 ![C](https://img.shields.io/badge/-C-fff?style=flat&logo=C&logoColor=blue)
 ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
 ![CSharp](https://img.shields.io/badge/-CSharp-fff?&logo=c-sharp&logoColor=blue)
-![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=BB7396)
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-fff?&logo=Kotlin)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
