@@ -13,6 +13,7 @@ I'm a 3rd-year Software Engineering/CS student [@ISEN](https://www.isen.fr/campu
 
 ### Languages and tools:
 
+![Rust](https://img.shields.io/badge/-Rust-fff?style=flat&logo=rust&logoColor=brown)
 ![C](https://img.shields.io/badge/-C-fff?style=flat&logo=C&logoColor=blue)
 ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
 ![CSharp](https://img.shields.io/badge/-CSharp-fff?&logo=c-sharp&logoColor=blue)
