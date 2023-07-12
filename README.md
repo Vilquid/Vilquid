@@ -20,5 +20,3 @@ I'm a 3rd-year Software Engineering/CS student [@ISEN](https://www.isen.fr/campu
 ![Vilquid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vilquid&bg_color=30,e96443,904e95&show_icons=true&title_color=fff&icon_color=fff&hide_title=false&hide_border=true&text_color=fff)
 
 ![Vilquid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vilquid&bg_color=30,e96443,904e95&show_icons=true&title_color=fff&icon_color=fff&hide_title=false&hide_border=true&text_color=fff)
-
-
